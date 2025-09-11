@@ -1,1 +1,1 @@
-A code repo for JavaScript
+JavaScript code repo
