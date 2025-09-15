@@ -1,1 +1,1 @@
-JavaScript code repo
+Code repo for JavaScript-tutorial
