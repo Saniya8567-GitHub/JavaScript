@@ -16,5 +16,6 @@ let state;
 //symbol=>unique
 //object
 console.log(typeof age);
+console.log(typeof "Saniya")
 console.log(typeof null);
 console.log(typeof undefined);
